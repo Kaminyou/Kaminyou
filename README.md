@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-![Kaminyou github stats](https://github-readme-stats.vercel.app/api?username=kaminyou&show_icons=true&hide_border=true)
+<p align="left"><img src=https://komarev.com/ghpvc/?username=kaminyou&color=dc143c></p>
+<p align="left"><img src=https://github-readme-stats.vercel.app/api?username=kaminyou&show_icons=true&hide_border=true></p>
 <!--
 **Kaminyou/Kaminyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

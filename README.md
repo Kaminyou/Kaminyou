@@ -10,6 +10,15 @@ Year | Conf | Topic | Record |
 2021 | SITCON | General adversarial attack against deep learning model in image, text, and audio domain | [Youtube](https://www.youtube.com/watch?v=qTBt-jBcfoE)
 2020 | HITCON | Potential Security and Privacy Issues in Novel Taiwanese National eID system | [Youtube](https://www.youtube.com/watch?v=xceL9rRYnEM)
 
+### Open source deep learning related projects
+Yeas | Project | Report | Code | 
+--- | --- | --- | --- |
+2021 | A template is all you need: 2D to 3D reconstruction with templates learned by contrastive learning | [report](https://github.com/Kaminyou/A-template-is-all-you-need/blob/main/report/109_2_3DDLCV_FINAL.pdf) | [code](https://github.com/Kaminyou/A-template-is-all-you-need)
+2021 | Adversarial attack embedding analysis | [report](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis/blob/master/report/report.pdf) | [code](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis)
+2021 | Deepspeech2 PyTorch adversarial attack | - | [code](https://github.com/Kaminyou/deepspeech2-pytorch-adversarial-attack)
+
+
+
 ### Open source side projects
 Yeas | Project | Deploy | Code | 
 --- | --- | --- | --- |

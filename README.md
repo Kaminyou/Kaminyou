@@ -1,7 +1,12 @@
 ### Kaminyou (Ming-Yang Ho)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaminyou&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaminyou&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaminyou&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaminyou&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaminyou&theme=solarized_dark)
 <p align="left"><img src=https://komarev.com/ghpvc/?username=kaminyou&color=dc143c></p>
-<p align="left"><img src=https://github-readme-stats.vercel.app/api?username=kaminyou&show_icons=true&hide_border=true></p>
 
+![]()
 ### Public Talks
 Year | Conf | Topic | Record |
 --- | --- | --- | --- |

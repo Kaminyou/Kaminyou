@@ -26,14 +26,15 @@ Yeas | Project | Report | Code |
 
 
 ### Open source side projects
-Yeas | Project | Deploy | Code | 
+Yeas | Project | Type | Source code | 
 --- | --- | --- | --- |
-2022 | Web server for human evaluation in computer vision research | - | [code](https://github.com/Kaminyou/Computer-Vision-Research-Human-Evaluation-Server)
-2021 | Speech processing Universal PERformance Benchmark | [website](https://superbbenchmark.org/) | [code](https://github.com/superbbenchmark/website-react)
-2021 | MSExcelArt | - | [code](https://github.com/Kaminyou/MSExcelArt)
-2021 | A template is all you need: 2D to 3D reconstruction | - | [code](https://github.com/Kaminyou/A-template-is-all-you-need)
-2021 | Chinese Calligraphy Database | [website](https://kaminyou.com/Chinese-Calligraphy-Database-Crawler/) | [code](https://github.com/Kaminyou/Chinese-Calligraphy-Database-Crawler)
-2021 | Otaku translator pro | [website](https://kaminyou.com/otaku-translator-pro/) | [code](https://github.com/Kaminyou/otaku-translator-pro)
+2020 | Multithread files finder | Tool | [GitHub](https://github.com/Kaminyou/Multithread-files-finder)
+2022 | Web server for human evaluation in computer vision research | Website | [GitHub](https://github.com/Kaminyou/Computer-Vision-Research-Human-Evaluation-Server)
+2021 | Speech processing Universal PERformance Benchmark | [Website](https://superbbenchmark.org/) | [GitHub](https://github.com/superbbenchmark/website-react)
+2021 | MSExcelArt | Tool | [GitHub](https://github.com/Kaminyou/MSExcelArt)
+2021 | A template is all you need: 2D to 3D reconstruction | Research | [GitHub](https://github.com/Kaminyou/A-template-is-all-you-need)
+2021 | Chinese Calligraphy Database | [Website](https://kaminyou.com/Chinese-Calligraphy-Database-Crawler/) | [GitHub](https://github.com/Kaminyou/Chinese-Calligraphy-Database-Crawler)
+2021 | Otaku translator pro | [Website](https://kaminyou.com/otaku-translator-pro/) | [GitHub](https://github.com/Kaminyou/otaku-translator-pro)
 
 
 <!--

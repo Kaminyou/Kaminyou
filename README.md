@@ -18,6 +18,7 @@ Year | Conf | Topic | Record |
 ### Open source deep learning related projects
 Yeas | Project | Report | Code | 
 --- | --- | --- | --- |
+2022 | PyTorch implementation of HoVer-Net | - | [code](https://github.com/Kaminyou/HoVer-Net-PyTorch)
 2021 | A template is all you need: 2D to 3D reconstruction with templates learned by contrastive learning | [report](https://github.com/Kaminyou/A-template-is-all-you-need/blob/main/report/109_2_3DDLCV_FINAL.pdf) | [code](https://github.com/Kaminyou/A-template-is-all-you-need)
 2021 | Adversarial attack embedding analysis | [report](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis/blob/master/report/report.pdf) | [code](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis)
 2021 | Deepspeech2 PyTorch adversarial attack | - | [code](https://github.com/Kaminyou/deepspeech2-pytorch-adversarial-attack)

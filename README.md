@@ -7,6 +7,12 @@
 <p align="left"><img src=https://komarev.com/ghpvc/?username=kaminyou&color=dc143c></p>
 
 ![]()
+###  Publications
+Year | Conf | Title | Paper | Code
+--- | --- | --- | --- | ---
+2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | - | [code](https://github.com/Kaminyou/URUST)
+
+
 ### Public Talks
 Year | Conf | Topic | Record |
 --- | --- | --- | --- |

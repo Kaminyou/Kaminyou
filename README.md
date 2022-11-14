@@ -10,7 +10,7 @@
 ###  Publications
 Year | Conf | Title | Paper | Code
 --- | --- | --- | --- | ---
-2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [arxiv](https://arxiv.org/abs/2208.10730) | [code](https://github.com/Kaminyou/URUST)
+2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29) | [code](https://github.com/Kaminyou/URUST)
 
 
 ### Public Talks

@@ -15,13 +15,18 @@ Year | Conf | Title | Paper | Code
 ### Blogs/Tutorials
 - [My 2022 Journey to solving 1500 Leetcode Problems](https://medium.com/@ikaminyou/leetcode-%E5%88%B71500%E9%A1%8C%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B-8614284f03da)
 
-### Public Talks
+### Public Talks @ Computer programming conferences
 Year | Conf | Topic | Record |
 --- | --- | --- | --- |
 2021 | PyCon APAC | Get 3D models out of nothing: Python implementation of deep learning-based 3D models reconstruction from 2D images | [Website](https://th.pycon.org/pages/speakers)
 2021 | PyCon TW | Implementation of a deep learning-based saliency detection system by Python | [Youtube](https://www.youtube.com/watch?v=iRGEG-Lft40)
 2021 | SITCON | General adversarial attack against deep learning model in image, text, and audio domain | [Youtube](https://www.youtube.com/watch?v=qTBt-jBcfoE)
 2020 | HITCON | Potential Security and Privacy Issues in Novel Taiwanese National eID system | [Youtube](https://www.youtube.com/watch?v=xceL9rRYnEM)
+
+### Invited Talks @ Academic institution
+Year | Institution | Topic | Record |
+--- | --- | --- | --- |
+2022 | National Cheng Kung University | The essentials of applying data science to pharmacoepidemiology | -
 
 ### Open source deep learning related projects
 Yeas | Project | Report | Code | 
@@ -31,7 +36,6 @@ Yeas | Project | Report | Code |
 2021 | Adversarial attack embedding analysis | [report](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis/blob/master/report/report.pdf) | [code](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis)
 2021 | Deepspeech2 PyTorch adversarial attack | - | [code](https://github.com/Kaminyou/deepspeech2-pytorch-adversarial-attack)
 2020 | HOHOHO: intracranial HemOrrHage detectiOn enHenced by asymmetric lOss with CNN-LSTM | [report](https://github.com/DLCV-Fall-2020/medical-imaging-hohoho/blob/main/report.pdf) | [code](https://github.com/DLCV-Fall-2020/medical-imaging-hohoho) 
-
 
 
 ### Open source side projects

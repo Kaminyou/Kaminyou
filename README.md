@@ -26,7 +26,9 @@ Year | Conf | Topic | Record |
 ### Invited Talks @ Academic institution
 Year | Institution | Topic | Record |
 --- | --- | --- | --- |
+2023 | National Cheng Kung University | Build a Career in Data Science II | -
 2022 | National Cheng Kung University | The essentials of applying data science to pharmacoepidemiology | -
+2022 | National Cheng Kung University | Build a Career in Data Science I | -
 
 ### Open source deep learning related projects
 Yeas | Project | Report | Code | 

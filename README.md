@@ -43,6 +43,7 @@ Yeas | Project | Report | Code |
 ### Open source side projects
 Yeas | Project | Type | Source code | 
 --- | --- | --- | --- |
+2023 | Pro104 auto puncher | System | [GitHub](https://github.com/Kaminyou/Pro104-Auto-Puncher)
 2022 | Femas cloud auto puncher | System | [GitHub](https://github.com/Kaminyou/femascloud-auto-puncher)
 2022 | NTU Dinner Wheel | [Website](https://kaminyou.com/NTU-Dinner-Wheel/) | [GitHub](https://github.com/Kaminyou/NTU-Dinner-Wheel)
 2022 | Multithread files finder | Tool | [GitHub](https://github.com/Kaminyou/Multithread-files-finder)

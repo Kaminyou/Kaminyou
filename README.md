@@ -10,7 +10,7 @@
 ###  Publications
 Year | Journal/Conference | Title | Paper | Code
 --- | --- | --- | --- | ---
-2023 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | pending | [code](https://github.com/Kaminyou/PathoOpenGait)
+2023 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | [paper](https://ieeexplore.ieee.org/document/10349936) | [code](https://github.com/Kaminyou/PathoOpenGait)
 2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29) | [code](https://github.com/Kaminyou/URUST)
 
 ### Blogs/Tutorials

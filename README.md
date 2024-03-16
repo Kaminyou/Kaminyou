@@ -10,7 +10,8 @@
 ###  Publications
 Year | Journal/Conference | Title | Paper | Code
 --- | --- | --- | --- | ---
-2023 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | [paper](https://ieeexplore.ieee.org/document/10349936) | [code](https://github.com/Kaminyou/PathoOpenGait)
+2024 | npj Digital Health | FastEval Parkinsonism: an instant deep learning–assisted video-based online system for Parkinsonian motor symptom evaluation | [paper](https://www.nature.com/articles/s41746-024-01022-x) | [code](https://github.com/yuyuan871111/fast_eval_Parkinsonism)
+2024 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | [paper](https://ieeexplore.ieee.org/document/10349936) | [code](https://github.com/Kaminyou/PathoOpenGait)
 2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29) | [code](https://github.com/Kaminyou/URUST)
 
 ### Blogs/Tutorials
@@ -32,9 +33,10 @@ Year | Institution | Topic | Record |
 2022 | National Cheng Kung University | The essentials of applying data science to pharmacoepidemiology | -
 2022 | National Cheng Kung University | Build a Career in Data Science I | -
 
-### Open source deep learning related projects
+### Open-source deep learning-related projects
 Yeas | Project | Report | Code | 
 --- | --- | --- | --- |
+2022 | Contrastive Unpaired Translation (CUT) concise implementation | - | [code](https://github.com/Kaminyou/Contrastive-Unpaired-Translation-CUT-)
 2022 | PyTorch implementation of HoVer-Net | - | [code](https://github.com/Kaminyou/HoVer-Net-PyTorch)
 2021 | A template is all you need: 2D to 3D reconstruction with templates learned by contrastive learning | [report](https://github.com/Kaminyou/A-template-is-all-you-need/blob/main/report/109_2_3DDLCV_FINAL.pdf) | [code](https://github.com/Kaminyou/A-template-is-all-you-need)
 2021 | Adversarial attack embedding analysis | [report](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis/blob/master/report/report.pdf) | [code](https://github.com/Kaminyou/Adversarial-attack-embedding-analysis)

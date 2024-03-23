@@ -47,6 +47,7 @@ Yeas | Project | Report | Code |
 ### Open source side projects
 Yeas | Project | Type | Source code | 
 --- | --- | --- | --- |
+2024 | ZED-Record-GUI | Tool | [GitHub](https://github.com/Kaminyou/ZED-Record-GUI)
 2023 | Pro104 auto puncher | System | [GitHub](https://github.com/Kaminyou/Pro104-Auto-Puncher)
 2022 | Femas cloud auto puncher | System | [GitHub](https://github.com/Kaminyou/femascloud-auto-puncher)
 2022 | NTU Dinner Wheel | [Website](https://kaminyou.com/NTU-Dinner-Wheel/) | [GitHub](https://github.com/Kaminyou/NTU-Dinner-Wheel)

@@ -54,6 +54,7 @@ Yeas | Project | Report | Code |
 ### Open source side projects
 Yeas | Project | Type | Source code | 
 --- | --- | --- | --- |
+2024 | Space-warner-rust | System | [GitHub](https://github.com/Kaminyou/space-warner-rust)
 2024 | Space-warner | System | [GitHub](https://github.com/Kaminyou/space-warner)
 2024 | ZED-Record-GUI | Tool | [GitHub](https://github.com/Kaminyou/ZED-Record-GUI)
 2023 | Pro104 auto puncher | System | [GitHub](https://github.com/Kaminyou/Pro104-Auto-Puncher)
@@ -66,6 +67,7 @@ Yeas | Project | Type | Source code |
 2021 | A template is all you need: 2D to 3D reconstruction | Research | [GitHub](https://github.com/Kaminyou/A-template-is-all-you-need)
 2021 | Chinese Calligraphy Database | [Website](https://kaminyou.com/Chinese-Calligraphy-Database-Crawler/) | [GitHub](https://github.com/Kaminyou/Chinese-Calligraphy-Database-Crawler)
 2021 | Otaku translator pro | [Website](https://kaminyou.com/otaku-translator-pro/) | [GitHub](https://github.com/Kaminyou/otaku-translator-pro)
+2019 | Vancalc | [Android App](https://play.google.com/store/apps/details?id=com.kaminyou.vancalc3&hl=zh_TW) | [GitHub](https://github.com/Kaminyou/Vancalc3)
 
 
 <!--

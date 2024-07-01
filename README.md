@@ -17,6 +17,7 @@
 ###  Publications
 Year | Journal/Conference | Title | Paper | Code
 --- | --- | --- | --- | ---
+2024 | ECCV | Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization | pending | pending
 2024 | npj Digital Health | FastEval Parkinsonism: an instant deep learning–assisted video-based online system for Parkinsonian motor symptom evaluation | [paper](https://www.nature.com/articles/s41746-024-01022-x) | [code](https://github.com/yuyuan871111/fast_eval_Parkinsonism)
 2024 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | [paper](https://ieeexplore.ieee.org/document/10349936) | [code](https://github.com/Kaminyou/PathoOpenGait)
 2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29) | [code](https://github.com/Kaminyou/URUST)

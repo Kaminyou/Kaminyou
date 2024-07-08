@@ -13,7 +13,6 @@
 
 <p align="left"><img src=https://komarev.com/ghpvc/?username=kaminyou&color=dc143c></p>
 
-![]()
 ###  Publications (Conference)
 Year | Journal/Conference | Title | Paper | Code
 --- | --- | --- | --- | ---

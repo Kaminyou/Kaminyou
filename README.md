@@ -39,11 +39,7 @@ Year | Conf | Topic | Record |
 ### Invited Talks @ Academic institution
 Year | Institution | Topic | Record |
 --- | --- | --- | --- |
-2025 | National Cheng Kung University | Model robustness | pending
 2023 | National Taiwan University | Programming Workshop | [YouTube](https://www.youtube.com/playlist?list=PLliqi5P4G8nt16qEwuUIAvxQ3mhYcU4Vd)
-2023 | National Cheng Kung University | Build a Career in Data Science II | -
-2022 | National Cheng Kung University | The essentials of applying data science to pharmacoepidemiology | -
-2022 | National Cheng Kung University | Build a Career in Data Science I | -
 
 ### Open-source deep learning-related projects
 Yeas | Project | Report | Code | 

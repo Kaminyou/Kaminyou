@@ -55,6 +55,7 @@ Yeas | Project | Report | Code |
 ### Open source side projects
 Yeas | Project | Type | Source code | 
 --- | --- | --- | --- |
+2025 | Halftone-Color-QR-Codes | Tool | [GitHub](https://github.com/Kaminyou/Halftone-Color-QR-Codes)
 2024 | Space-warner-rust | System | [GitHub](https://github.com/Kaminyou/space-warner-rust)
 2024 | Space-warner | System | [GitHub](https://github.com/Kaminyou/space-warner)
 2024 | ZED-Record-GUI | Tool | [GitHub](https://github.com/Kaminyou/ZED-Record-GUI)

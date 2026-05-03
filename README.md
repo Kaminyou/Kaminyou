@@ -22,8 +22,7 @@ Year | Conference | Title | Paper | Code
 ###  Publications (Journal)
 Year | Journal | Title | Paper | Code
 --- | --- | --- | --- | ---
-2026 | IEEE JBHI | Movement Anywhere: An Open-Source
-Distributed 2D Video-Based Movement Analysis Platform Empowered by Active Learning | paper | [code](https://github.com/Kaminyou/Movement-Anywhere)
+2026 | IEEE JBHI | Movement Anywhere: An Open-Source Distributed 2D Video-Based Movement Analysis Platform Empowered by Active Learning | paper | [code](https://github.com/Kaminyou/Movement-Anywhere)
 2024 | npj Digital Health | FastEval Parkinsonism: an instant deep learning–assisted video-based online system for Parkinsonian motor symptom evaluation | [paper](https://www.nature.com/articles/s41746-024-01022-x) | [code](https://github.com/yuyuan871111/fast_eval_Parkinsonism)
 2024 | IEEE JBHI | Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait | [paper](https://ieeexplore.ieee.org/document/10349936) | [code](https://github.com/Kaminyou/PathoOpenGait)
 

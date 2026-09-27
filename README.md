@@ -16,6 +16,7 @@
 ###  Publications (Conference)
 Year | Conference | Title | Paper | Code
 --- | --- | --- | --- | ---
+2026 | NeurIPS | At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections | [paper](https://arxiv.org/abs/2604.10766) | code
 2024 | ECCV | Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18) | [code](https://github.com/Kaminyou/Dense-Normalization)
 2022 | ECCV | Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29) | [code](https://github.com/Kaminyou/URUST)
 
